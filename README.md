@@ -1,1 +1,1 @@
-# cydcydjango
+Aplicação disponível em https://cydcydjango.herokuapp.com/ 
