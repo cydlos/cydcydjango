@@ -12,6 +12,10 @@ codecov = "*"
 [packages]
 django = "*"
 gunicorn = "*"
+pytest = "*"
+codecov = "*"
+pytest-cov = "*"
+python-decouple = "*"
 
 [requires]
 python_version = "3.7"
